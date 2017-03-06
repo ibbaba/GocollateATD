@@ -1,0 +1,2 @@
+# GocollateATD
+This is a students industrial work experience scheme (SIWES) project,i design and implement for Gocollate Technologies limited,where i did my IT,the goCollate Attendance System is spilt into Front-end and Backend in which each exists dependently on each other.  FRONT-END Using HTML5(Hypertext markup Language 5) for organization and representation of the Page elements and structure and CSS(Cascading Stylesheet) for styling of the page elements and layouts – also for page structuring.
